@@ -1,11 +1,11 @@
-import Hero from "./Hero"
+import CreateArea from "./CreateArea";
 import Header from "./Header"
 import Footer from "./Footer"
 import Note from "./Note"
 
 export {
   Header,
-  Hero,
+  CreateArea,
   Footer,
   Note
 };
